@@ -64,3 +64,8 @@ The final poster and flyer designs are included in this repository as exported i
 ## Author
 **Durlov Dev Nath**
 **Graphic Designer**
+## Source Files
+
+The editable PSD and AI source files are available here:
+
+[Download Source Files – PSD & AI](https://drive.google.com/drive/folders/1aeRYdZ4P_m-Bb4y7x63aGBy7X1e6lifo?usp=sharing)
